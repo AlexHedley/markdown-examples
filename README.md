@@ -11,6 +11,12 @@ graph LR;
     C-->D;
 ```
 
+## Blockquote Annotations
+
+> **Note**: This is a note
+
+> **Warning**: This is a warning
+
 ## Code Reference
 
 https://github.com/AlexHedley/markdown-examples/blob/44cb0a717f6f4e18bda56b3f8f843370fdd6bb24/customer.sql#L1
