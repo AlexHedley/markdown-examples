@@ -1,6 +1,14 @@
 # markdown-examples
 Markdown Examples
 
+## Colours
+
+Color: `#000000`
+
+Red: `#ff0000`
+Green: `#00ff00`
+Blue: `#0000ff`
+
 ## Mermaid
 
 ```mermaid
